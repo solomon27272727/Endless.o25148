@@ -8,7 +8,7 @@ Endlesfile
 
 3 This repository contains:
 
-4.9590180.endless
+4.121224G.endless
 
 Endless pre-compiled binaries, including endless CLI, endless-node
 
